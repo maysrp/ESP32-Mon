@@ -33,7 +33,8 @@ GPU 10%
 
 ### 自动运行pym.exe
 点击pym.exe即可运行。 
-可以使用pyinstaller 自己打包exe程序，目前的pym.exe为win10 64bit，
+可以使用pyinstaller 自己打包exe程序，目前的pym.exe为win10 64bit  
+打包命令  
 `pyinstaller -i f.ico -F pym.py`
 
 ## 视频教程
