@@ -1,5 +1,5 @@
 # ESP32-Mon
-ESP32 结合SSD1306 OLED 监控CPU 内存 GPU的使用
+ESP32 结合SSD1306 OLED 监控CPU 内存 GPU的使用(仅支持英伟达的GPU，若无英伟达的显卡则不显示GPU栏)
 
 ## ESP32
 
