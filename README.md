@@ -37,6 +37,12 @@ GPU 10%
 打包命令  
 `pyinstaller -i f.ico -F pym.py`
 
+
+## 外壳
+文件中的3d打印的外壳，或者下载：
+https://www.thingiverse.com/thing:2993338  
+（目前我就是下载这个打印的外壳）
+
 ## 视频教程
 
 https://www.bilibili.com/video/BV1b54y1t7DW  
