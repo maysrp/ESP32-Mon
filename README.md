@@ -17,8 +17,7 @@ ESP32 结合SSD1306 OLED 监控CPU 内存 GPU的使用
 CPU 10%  
 MEM 10%  
 GPU 10%  
-即可完成。
-
+即表示上传完成。
 
 
 
