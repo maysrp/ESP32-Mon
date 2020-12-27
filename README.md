@@ -5,6 +5,7 @@ ESP32 结合SSD1306 OLED 监控CPU 内存 GPU的使用
 
 连线：
 |ESP32|OLED（IIC）|
+|---|---|
 |G4  |SCL|
 |G5  |SDA|
 |3v3 |Vdd|
