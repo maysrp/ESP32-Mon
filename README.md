@@ -34,4 +34,4 @@ GPU 10%
 可以使用pyinstaller 自己打包exe程序，目前的pym.exe为win10 64bit，直接点击运行
 
 ## 原理
-python 通过psutil和GPUtil获取 计算器的CPU GPU 内存信息 通过pyserial 发送给esp32显示oled。
+python 通过psutil和GPUtil获取 计算器的CPU GPU 内存信息 通过pyserial 串口连接并发送给esp32然后在oled上显示数据。
