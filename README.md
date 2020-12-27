@@ -1,7 +1,7 @@
 # ESP32-Mon
 ESP32 结合SSD1306 OLED 监控CPU 内存 GPU的使用
 
-## ESP32-CAM
+## ESP32
 
 ### 连线
 |ESP32|OLED（IIC）|
