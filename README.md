@@ -25,8 +25,8 @@ GPU 10%
 ## PC端
 
 ### 执行pym.py  
-首先在安装python3，使用pip安装pyserial,GPUtil,psutil，这两个模块 
-如果你知道你的com号，请把注释的 手动连接 取消注释，并且修改其中的COM号，然后再把自动从COM号中连接。
+首先在安装python3，使用pip安装pyserial,GPUtil,psutil，这三个模块  
+如果你知道你的com号，请把注释的 手动连接 取消注释，并且修改其中的COM号，然后再把自动从COM号中连接。  
 若不知道COM请不用修改。
 
 在PC上执行pym.py
