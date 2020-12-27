@@ -3,7 +3,7 @@ ESP32 结合SSD1306 OLED 监控CPU 内存 GPU的使用
 
 ## ESP32-CAM
 
-连线：
+### 连线
 |ESP32|OLED（IIC）|
 |---|---|
 |G4  |SCL|
@@ -11,6 +11,7 @@ ESP32 结合SSD1306 OLED 监控CPU 内存 GPU的使用
 |3v3 |Vdd|
 |GND |GND|
 
+### 上传
 上传freesans20.py , ssd1306.py ,writer.py ,main.py 到你的ESP32 上。  
 测试：cpu('10%','10%','10%','10%')  
 若oled现在显示  
