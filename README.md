@@ -34,5 +34,13 @@ GPU 10%
 ### 自动运行pym.exe
 可以使用pyinstaller 自己打包exe程序，目前的pym.exe为win10 64bit，直接点击运行
 
+## 视频教程
+
+https://www.bilibili.com/video/BV1b54y1t7DW  
+
+https://www.acfun.cn/v/ac21105834
+
+
+
 ## 原理
 python 通过psutil和GPUtil获取 计算器的CPU GPU 内存信息 通过pyserial 串口连接并发送给esp32然后在oled上显示数据。
